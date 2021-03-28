@@ -33,7 +33,7 @@ module.exports = {
       resolve: "@sofa-boys/gatsby-theme-podcast",
       options: {
         rssUrl: "https://dankbarkeits-enthusiastin.podigee.io/feed/aac",
-        disqusShortName: "sofa-boys",
+        disqusShortName: "sabrina-lindauer",
         spotifyUrl: "https://open.spotify.com/show/5NdbGuXj6NRjtZZfeXZka6",
         applePodcastsUrl:
           "https://podcasts.apple.com/ch/podcast/dankbar-dein-podcast-f%C3%BCr-mehr-dankbarkeit-selbstliebe/id1522143401",

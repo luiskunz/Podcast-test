@@ -35,9 +35,10 @@ module.exports = {
         rssUrl: "https://dankbarkeits-enthusiastin.podigee.io/feed/aac",
         disqusShortName: "sofa-boys",
         spotifyUrl: "https://open.spotify.com/show/5NdbGuXj6NRjtZZfeXZka6",
-        applePodcastsUrl:
+        itunesUrl:
           "https://podcasts.apple.com/ch/podcast/dankbar-dein-podcast-f%C3%BCr-mehr-dankbarkeit-selbstliebe/id1522143401",
       },
+      i,
     },
     // {
     //   resolve: "@sofa-boys/gatsby-theme-podcast",
